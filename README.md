@@ -1,0 +1,1 @@
+Built a robust credit risk model to predict loan default probabilities, improving risk assessment. Conducted EDA, data cleaning, and feature selection (Chi-squared, t-test, VIF). Tested models like Logistic Regression, SVM, Decision Tree, Random Forest, and XGBoost, selecting XGBoost for its high AUROC score. Achieved 97% accuracy and 0.96 F1 score after hyperparameter tuning.
